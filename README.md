@@ -18,10 +18,10 @@ An AI-powered operational decision-support platform that assists airline Flight 
 ## Roles
 
 Project Owner & Aviation Domain Expert
-James Djaf
+JPandame Djafok
 
 Software Architecture & AI Development
-Mo Ng
+Modupeola Kareem
 
 Status
 Research Prototype
