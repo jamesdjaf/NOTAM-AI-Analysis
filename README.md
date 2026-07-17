@@ -18,7 +18,7 @@ An AI-powered operational decision-support platform that assists airline Flight 
 ## Roles
 
 Project Owner & Aviation Domain Expert
-JPandame Djafok
+Pandame Djafok
 
 Software Architecture & AI Development
 Modupeola Kareem
