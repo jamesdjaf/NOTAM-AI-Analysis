@@ -1,6 +1,0 @@
-streamlit
-pandas
-shapely
-pyproj
-pypdf
-pydeck
